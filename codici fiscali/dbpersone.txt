@@ -1,0 +1,10 @@
+(M) Mario  Rossi 15/05/1976 Salerno
+(M) Fabio Dimaio 27/01/1998 Nocera Superiore
+(F) Dorotea Ambruosi 05/06/1997 Pagani
+(M) Gianluca Alati 16/12/2001 Pagani
+(M) Gioacchino Caliendo 22/02/2000 Nocera Inferiore
+(M) Wu Tang 05/06/2004 Salerno
+(F) Francesca La Manna 06/06/1999 Ariano Irpino
+(M) Francesco Maddaloni 15/03/1999 Salerno
+(M) Orlando Ronca 15/07/1998 Salerno
+
